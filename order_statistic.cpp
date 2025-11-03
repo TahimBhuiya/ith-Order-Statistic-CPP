@@ -10,8 +10,8 @@ int partition(int arr[], int low, int high) {
 
     for (int j = low; j < high; j++) {
         // if current element is smaller than or equal to pivot
-        
+        if (arr[j] <= pivot) {
+            
+            
+        }
     }
-
-
-}
