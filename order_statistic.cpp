@@ -12,6 +12,6 @@ int partition(int arr[], int low, int high) {
         // if current element is smaller than or equal to pivot
         if (arr[j] <= pivot) {
             i++;
-            
+            swap(arr[i], arr[j]); 
         }
     }
