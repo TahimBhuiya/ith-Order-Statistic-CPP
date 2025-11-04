@@ -30,7 +30,7 @@ int quickSelect(int arr[], int low, int high, int k) {
 
         // if pivot position matches k-1, we've found the k-th smallest
         if (pivotIndex == k - 1)
-            
+            return arr[pivotIndex];
 
 
 
