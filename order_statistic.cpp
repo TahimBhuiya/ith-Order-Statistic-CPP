@@ -29,7 +29,7 @@ int quickSelect(int arr[], int low, int high, int k) {
         int pivotIndex = partition(arr, low, high);
 
         // if pivot position matches k-1, we've found the k-th smallest
-        
+        if (pivotIndex == k - 1)
             
 
 
