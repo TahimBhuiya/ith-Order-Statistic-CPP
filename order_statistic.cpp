@@ -26,7 +26,7 @@ int partition(int arr[], int low, int high) {
 int quickSelect(int arr[], int low, int high, int k) {
     if (low <= high) {
         // partition the array and get pivot position
-        
+        int pivotIndex = partition(arr, low, high);
 
         
         
