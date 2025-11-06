@@ -32,7 +32,7 @@ int quickSelect(int arr[], int low, int high, int k) {
         if (pivotIndex == k - 1)
             return arr[pivotIndex];
         // if k-th smallest lies on the left side
-        
+        else if (pivotIndex > k - 1)
             
         
         
