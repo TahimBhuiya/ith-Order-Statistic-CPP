@@ -40,5 +40,5 @@ int quickSelect(int arr[], int low, int high, int k) {
     }
 
     // if k is out of bounds
-    
+    return -1;
 }
