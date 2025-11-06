@@ -38,7 +38,6 @@ int quickSelect(int arr[], int low, int high, int k) {
         else
             return quickSelect(arr, pivotIndex + 1, high, k);
     }
-
     // if k is out of bounds
     return -1;
 }
