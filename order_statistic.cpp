@@ -47,7 +47,7 @@ int quickSelect(int arr[], int low, int high, int k) {
 
 
 int main() {
-   
+    int arr[] = {12, 3, 5, 7, 19, 26, 4};
     
     
 
