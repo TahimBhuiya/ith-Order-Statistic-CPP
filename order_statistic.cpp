@@ -51,7 +51,7 @@ int main() {
     int n = sizeof(arr) / sizeof(arr[0]);
     int k;
 
-    
+    // Ask the user for which order statistic to find
    
     
 
