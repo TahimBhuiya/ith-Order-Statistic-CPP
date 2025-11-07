@@ -52,7 +52,7 @@ int main() {
     int k;
 
     // Ask the user for which order statistic to find
-   
+    cout << "Enter the order (k) of the smallest element to find (1-" << n << "): ";
     
 
     
