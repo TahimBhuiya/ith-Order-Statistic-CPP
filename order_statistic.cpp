@@ -55,7 +55,7 @@ int main() {
     cout << "Enter the order (k) of the smallest element to find (1-" << n << "): ";
     cin >> k;
 
-    
+    if (k < 1 || k > n) {}
 
 
 }
