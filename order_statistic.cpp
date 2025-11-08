@@ -65,5 +65,5 @@ int main() {
 
     cout << "The " << k << "-th smallest element is: " << result << endl;
 
-    
+    return 0;
 }
