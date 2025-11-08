@@ -22,7 +22,6 @@ int partition(int arr[], int low, int high) {
     return (i + 1); // return pivot index
 }
 
-
 // Function to find the i-th order statistic (k-th smallest element)
 int quickSelect(int arr[], int low, int high, int k) {
     if (low <= high) {
