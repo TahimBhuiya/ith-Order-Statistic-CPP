@@ -57,7 +57,7 @@ int main() {
 
     if (k < 1 || k > n) {
         cout << "Invalid input! k must be between 1 and " << n << "." << endl;
-        
+        return 1;
     }
 
     
