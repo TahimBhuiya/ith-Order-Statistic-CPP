@@ -61,10 +61,9 @@ int main() {
     }
 
     // Call quickSelect to find the k-th smallest element
-    
     int result = quickSelect(arr, 0, n - 1, k);
 
-    
+    cout << "The " << k << "-th smallest element is: " << result << endl;
 
     
 }
