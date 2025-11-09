@@ -1,8 +1,8 @@
 //Created by Tahim Bhuiya
 //Finding ith order statistic
 
-#include <iostream> //Added necessary libraries
-using namespace std; 
+#include <iostream>
+using namespace std;
 
 // Partition function: rearranges elements around a pivot
 int partition(int arr[], int low, int high) {
@@ -38,6 +38,7 @@ int quickSelect(int arr[], int low, int high, int k) {
         else
             return quickSelect(arr, pivotIndex + 1, high, k);
     }
+
     // if k is out of bounds
     return -1;
 }
