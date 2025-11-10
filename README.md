@@ -18,3 +18,7 @@ It prompts the user to input which order statistic (`k`) to find and displays th
 - **Divide and Conquer**: Similar to Quick Sort but only processes one side of the partition.
 - **Average Time Complexity**: _O(n)_ — faster than full sorting for large datasets.
 - **Fully Commented Code**: Explains each step for easy learning and modification.
+
+---
+
+## 📋 Example Run
