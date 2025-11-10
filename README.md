@@ -24,3 +24,4 @@ It prompts the user to input which order statistic (`k`) to find and displays th
 ## 📋 Example Run
 
 **Input:**
+Array:
