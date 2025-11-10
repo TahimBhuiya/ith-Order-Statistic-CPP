@@ -13,3 +13,5 @@ It prompts the user to input which order statistic (`k`) to find and displays th
 ---
 
 ## 🔧 Features
+
+- **Quickselect Algorithm**: Efficiently finds the k-th smallest element without fully sorting the array.
