@@ -16,3 +16,4 @@ It prompts the user to input which order statistic (`k`) to find and displays th
 
 - **Quickselect Algorithm**: Efficiently finds the k-th smallest element without fully sorting the array.
 - **Divide and Conquer**: Similar to Quick Sort but only processes one side of the partition.
+- **Average Time Complexity**: _O(n)_ — faster than full sorting for large datasets.
