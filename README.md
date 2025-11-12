@@ -33,3 +33,5 @@ Enter the order (k) of the smallest element to find: 3
 The 3-th smallest element is: 5
 
 ---
+
+## ⚙ How It Works
