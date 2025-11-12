@@ -43,3 +43,5 @@ The 3-th smallest element is: 5
 2. **Check Pivot Position**
 
    - If the pivot’s position matches `k-1`, the pivot is the k-th smallest element.
+
+3. **Recursive Selection**
