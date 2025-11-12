@@ -30,3 +30,6 @@ Array:
 Enter the order (k) of the smallest element to find: 3
 
 **Output:**
+The 3-th smallest element is: 5
+
+---
