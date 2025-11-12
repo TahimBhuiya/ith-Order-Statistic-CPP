@@ -41,3 +41,5 @@ The 3-th smallest element is: 5
    - Choose a pivot (last element) and move smaller values to the left and larger values to the right.
 
 2. **Check Pivot Position**
+
+   - If the pivot’s position matches `k-1`, the pivot is the k-th smallest element.
