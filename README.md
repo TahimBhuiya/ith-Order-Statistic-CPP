@@ -35,3 +35,5 @@ The 3-th smallest element is: 5
 ---
 
 ## ⚙ How It Works
+
+1. **Partition the Array**
