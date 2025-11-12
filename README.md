@@ -50,3 +50,7 @@ The 3-th smallest element is: 5
    - If smaller, search the right side.
 
 4. **Return the Result**
+
+   - Once the pivot position matches `k-1`, return that value as the i-th order statistic.
+
+---
