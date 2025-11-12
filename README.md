@@ -39,3 +39,5 @@ The 3-th smallest element is: 5
 1. **Partition the Array**
 
    - Choose a pivot (last element) and move smaller values to the left and larger values to the right.
+
+2. **Check Pivot Position**
