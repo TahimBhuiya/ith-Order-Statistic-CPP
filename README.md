@@ -28,3 +28,5 @@ Array:
 12 3 5 7 19 26 4
 
 Enter the order (k) of the smallest element to find: 3
+
+**Output:**
