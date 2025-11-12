@@ -54,3 +54,5 @@ The 3-th smallest element is: 5
    - Once the pivot position matches `k-1`, return that value as the i-th order statistic.
 
 ---
+
+## 🛠 How to Run
