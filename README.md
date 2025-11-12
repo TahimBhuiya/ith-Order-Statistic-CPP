@@ -47,3 +47,4 @@ The 3-th smallest element is: 5
 3. **Recursive Selection**
 
    - If the pivot index is greater than `k-1`, search the left side.
+   - If smaller, search the right side.
