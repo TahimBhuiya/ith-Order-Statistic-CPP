@@ -72,3 +72,4 @@ g++ order_statistic.cpp -o order_statistic
 ### 2️⃣ Using an online C++ compiler
 
 - Go to a site like [Programiz](https://www.programiz.com/cpp-programming/online-compiler) or [Replit](https://replit.com/languages/cpp)
+- Paste the code
