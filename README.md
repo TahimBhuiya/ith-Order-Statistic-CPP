@@ -63,3 +63,12 @@ The 3-th smallest element is: 5
 
 - Save the code as `order_statistic.cpp` or any name you prefer.
 - Compile and run it with your C++ compiler (e.g., Dev-C++, Code::Blocks, Visual Studio, g++):
+
+```bash
+
+
+
+
+
+
+```
