@@ -66,9 +66,5 @@ The 3-th smallest element is: 5
 
 ```bash
 g++ order_statistic.cpp -o order_statistic
-
-
-
-
-
+./order_statistic
 ```
