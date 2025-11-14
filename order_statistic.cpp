@@ -53,7 +53,6 @@ int main() {
         cout << "Invalid input! k must be between 1 and " << n << "." << endl;
         return 1;
     }
-
     // Call quickSelect to find the k-th smallest element
     int result = quickSelect(arr, 0, n - 1, k);
 
