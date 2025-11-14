@@ -65,7 +65,7 @@ The 3-th smallest element is: 5
 - Compile and run it with your C++ compiler (e.g., Dev-C++, Code::Blocks, Visual Studio, g++):
 
 ```bash
-
+g++ order_statistic.cpp -o order_statistic
 
 
 
