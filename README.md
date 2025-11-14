@@ -58,3 +58,5 @@ The 3-th smallest element is: 5
 ## 🛠 How to Run
 
 ### You can run this code in two ways:
+
+### 1️⃣ Using a local C++ compiler
